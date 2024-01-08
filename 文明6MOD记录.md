@@ -239,5 +239,9 @@ mod管理器，更直观的关闭和启动mod。
 
 ![](images\Cheat Menu Panel (R&F - GS).png)
 
+# 三、作弊
 
+## 自选部落村庄奖励
+
+![](images\自选村庄奖励.png)
 

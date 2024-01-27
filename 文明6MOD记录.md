@@ -208,6 +208,10 @@ mod管理器，更直观的关闭和启动mod。
 
 快速开始
 
+## Hillier Hills (Colder Tundra Edition)
+
+令丘陵在视觉效果上更突出，该版本还包含了改变冻土美术风格的内容。 
+
 # 二、轻微作弊
 
 

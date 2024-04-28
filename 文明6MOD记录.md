@@ -258,3 +258,13 @@ mod管理器，更直观的关闭和启动mod。
 地图编辑器，可以更改地形地貌等
 
 ![](images\Cheat Map Editor.png)
+
+## 自选议会MOD
+
+![](images\自选议会mod.png)
+
+
+##  取消巨作移动10回合CD 
+
+![](images\取消巨作移动CD.png)
+

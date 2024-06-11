@@ -46,12 +46,6 @@ mod管理器，更直观的关闭和启动mod。
 
 ![](images\Better Report Screen (UI).png)
 
-## Better Report Screen (UI)
-
-更好的报告页面
-
-![](images\Better Report Screen (UI).png)
-
 ## Better Deal Window
 
 更好的交易面板，显示自己自己ai从其他地方获得的资源详情

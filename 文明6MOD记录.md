@@ -241,6 +241,13 @@ mod管理器，更直观的关闭和启动mod。
 
 ![](images\Cheat Menu Panel (R&F - GS).png)
 
+## SG's Strategics Revealed for Gathering Storm
+
+提前显示以战略资源
+
+![](images\SG's Strategics Revealed for Gathering Storm.png)
+
+
 # 三、作弊
 
 ## 自选部落村庄奖励

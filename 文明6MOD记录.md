@@ -253,6 +253,14 @@ mod管理器，更直观的关闭和启动mod。
 
 ![](images\SG's Strategics Revealed for Gathering Storm.png)
 
+## Expanded Initial Vision
+
+开局更大的视野。
+
+![](images\Expanded Initial Vision.png)
+
+
+ 
 
 # 三、作弊
 
